@@ -39,6 +39,8 @@ Datasets should follow the ROCCC approach:
 
 ## PROCESS
 
+Cleaning the data is to check that there is no duplicates, outdated data, incomplete data, inaccurate or inconsistent data
+
 ## ANALYZE
 
 ## SHARE
