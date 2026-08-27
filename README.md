@@ -27,14 +27,14 @@ STAKEHOLDERS:
 ## PREPARE
 
 Dataset source: Kaggle - (https://www.kaggle.com/datasets/pratyushpuri/retail-fashion-boutique-data-sales-analytics-2025).  
-The dataset contains: product_id, category, brand,  season, size, color,  original_price, markdown_percentage, current_price,  purchase_date,  stock_quantity,  customer_rating,  is_returned, return_reason
+The dataset contains 2176 rows including the following categories: product_id, category, brand,  season, size, color,  original_price, markdown_percentage, current_price,  purchase_date,  stock_quantity,  customer_rating,  is_returned, return_reason
 
 Datasets should follow the ROCCC approach: 
 - Reliable
 - Original
 - Comprehensive
 - Current
-- Cited:  
+- Cited  
 
 
 ## PROCESS
