@@ -20,21 +20,21 @@ BUSINESS TASK:
 4.	Markdown effectiveness: How does markdown percentage influence sales volume?
 
 STAKEHOLDERS: 
-•	Inventory and Supply Chain: Needs seasonal demand forecasts and stock optimization insights
-•	Marketing Team: Using top-performing brands and seasonal peaks for targeted campaigns.
-•	Management: Requires high-level performance insights, profitability trends, and strategic recommendations.  
+- Inventory and Supply Chain: Needs seasonal demand forecasts and stock optimization insights
+- Marketing Team: Using top-performing brands and seasonal peaks for targeted campaigns.
+- Management: Requires high-level performance insights, profitability trends, and strategic recommendations.  
 
 ## PREPARE
 
-Dataset source: Kaggle - Retail Fashion Boutique Data Sales Analytics 2025
+Dataset source: Kaggle - (https://www.kaggle.com/datasets/pratyushpuri/retail-fashion-boutique-data-sales-analytics-2025)
 The dataset contains: product_id, category, brand,  season, size, color,  original_price, markdown_percentage, current_price,  purchase_date,  stock_quantity,  customer_rating,  is_returned, return_reason
 
 Datasets should follow the ROCCC approach: 
-•	Reliable
-•	Original
-•	Comprehensive
-•	Current
-•	Cited:  
+- Reliable
+- Original
+- Comprehensive
+- Current
+- Cited:  
 
 
 ## PROCESS
