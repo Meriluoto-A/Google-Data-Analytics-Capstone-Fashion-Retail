@@ -44,6 +44,8 @@ https://github.com/Meriluoto-A/Data-Cleaning-Checklist/blob/main/README.md
 
 ## ANALYZE
 
+**Python** and **Tableau** were used to visualize the data for analysis.
+
 ## SHARE
 
 ## ACT
